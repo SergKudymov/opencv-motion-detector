@@ -1,0 +1,5 @@
+# Users build debug files
+
+cmake-build-debug/
+*.user
+.directory
